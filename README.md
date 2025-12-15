@@ -15,7 +15,5 @@ A modern real estate web application built with **React.js** and **Vite** that s
 - **Frontend:** React.js, CSS, HTML
 - **Bundler:** Vite
 - **Linting:** ESLint
-- **Assets:** Public folder (`/public/images/1.png`)
 
-## Project Structure
 
