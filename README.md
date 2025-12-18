@@ -79,7 +79,7 @@ npm or yarn
 
 Steps
 # Clone the repository
-git clone https://github.com/your-username/signature-stay.git
+git clone https://github.com/Shrinidhi444/signature-stay.git
 
 # Navigate to project directory
 cd signature-stay
