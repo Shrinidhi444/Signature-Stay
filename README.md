@@ -1,10 +1,10 @@
-Signature Stay 🏡
+#Signature Stay 🏡
 
 Signature Stay is a modern real estate web application designed with smooth navigation and a premium user experience. The platform allows users to explore luxury villas and properties through a responsive, visually rich interface.
 
 Built using React.js on the frontend and Node.js, Express, and MongoDB on the backend, the application ensures seamless data handling and engaging user interaction.
 
-🚀 Features
+#🚀 Features
 
 Smooth and intuitive navigation across the application
 
@@ -14,7 +14,7 @@ Fully responsive design for desktop, tablet, and mobile devices
 
 Contact functionality to connect users with property hosts
 
-Well-structured sections:
+#Well-structured sections:
 
 About Us
 
@@ -28,8 +28,8 @@ Terms & Conditions
 
 Modern UI components for enhanced user experience
 
-🛠 Tech Stack
-Frontend
+#🛠 Tech Stack
+#Frontend
 
 React.js
 
@@ -37,23 +37,23 @@ HTML5
 
 CSS3
 
-Backend
+#Backend
 
 Node.js
 
 Express.js
 
-Database
+#Database
 
 MongoDB
 
-Tools
+#Tools
 
 Vite (Build Tool)
 
 ESLint (Code Quality)
 
-🎯 Project Objective
+#🎯 Project Objective
 
 To design and develop a smooth, responsive, and visually appealing real estate platform that enhances user engagement while exploring premium properties.
 
@@ -70,7 +70,7 @@ signature-stay/
 │   └── server.js
 └── README.md
 
-⚙️ Installation & Setup
+#⚙️ Installation & Setup
 Prerequisites
 
 Node.js
