@@ -11,6 +11,9 @@ Built using React.js on the frontend and Node.js, Express, and MongoDB on the ba
 - Fully responsive design for desktop, tablet, and mobile devices
 - Contact functionality to connect users with property hosts
 
+## 📸 Screenshots
+![Screenshot of app](https://raw.githubusercontent.com/Shrinidhi444/Signature-Stay/main/project/public/1.png)
+
 ## Well-Structured Sections
 
 - About Us
